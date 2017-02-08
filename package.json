@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/starfeeling/micro_demo#readme",
   "dependencies": {
-    "micro": "^7.0.3"
+    "micro": "^7.0.3",
+    "then-sleep": "^1.0.1"
   }
 }
