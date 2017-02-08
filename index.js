@@ -15,6 +15,6 @@ module.exports = async(req, res) => {
         const data = {
             error: 'Custom error message'
         }
-        send(res, statusCode, data)
+        send(res, 400, data)
     }
 }
